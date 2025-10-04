@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Glenn Aquino!
+# 👋 Hey, I'm Glenn!
 
 ## 🚀 Creator of **imhigh.ai** — the home of **Stonertainment** 🌌
 
@@ -24,7 +24,7 @@ I’m an **AI-powered stoner entertainment architect** blending creativity, tech
 I founded **Stonertainment** to bridge the gap between **tech and the high experience** — making AI feel more like a cosmic guide than a code robot. 🌈
 
 ### 📫 Reach me:
-- DM me on **GitHub** or find me on **[LinkedIn](https://linkedin.com/in/glenn-aquino)**.
+- DM me on **GitHub** 
 - Always open to collabs, highdeas 💡, or just vibing over AI and creative projects!
 
 ---
